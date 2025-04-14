@@ -22,10 +22,10 @@ O programa é executado via linha de comando, onde o usuário informa dois núme
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/ppablolds/Calculadora-Basica.git
 2. Navegue até a pasta do projeto:
     ```bash
-   cd nome-do-repo
+   cd calculadora-basica
 3. Compile o arquivo Java:
     ```bash
    javac Calculadora.java
