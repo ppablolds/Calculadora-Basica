@@ -1,6 +1,6 @@
 # 📘 Desafio: Calculadora Básica em Java
 
-## 📋 Descrição
+### 📋 Descrição
 
 Este projeto é uma calculadora básica desenvolvida em Java, que permite realizar as quatro operações matemáticas fundamentais: adição, subtração, multiplicação e divisão.
 
@@ -11,14 +11,14 @@ O programa é executado via linha de comando, onde o usuário informa dois núme
  - ✅ Soma
  - ✅ Subtração
  - ✅ Multiplicação
- - ✅ Multiplicação
+ - ✅ Divisão
 
 ### 🧑‍💻 Tecnologias utilizadas
 
  - Java (versão 21)
  - Execução via terminal (CLI - Command Line Interface)
 
-## 🚀 Como executar
+### 🚀 Como executar
 
 1. Clone o repositório:
    ```bash
