@@ -25,7 +25,7 @@ O programa é executado via linha de comando, onde o usuário informa dois núme
    git clone https://github.com/ppablolds/Calculadora-Basica.git
 2. Navegue até a pasta do projeto:
     ```bash
-   cd calculadora-basica
+   cd calculadora-basica/src
 3. Compile o arquivo Java:
     ```bash
    javac Calculadora.java
