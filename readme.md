@@ -37,3 +37,10 @@ O programa é executado via linha de comando, onde o usuário informa dois núme
 
  - O programa não trata divisão por zero. 
  - Funciona apenas com dois números por operação.
+
+---
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT.  
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
