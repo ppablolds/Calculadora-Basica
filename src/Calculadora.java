@@ -21,7 +21,11 @@ public class Calculadora {
         System.out.println("Soma: "+ soma);
         System.out.println("Subtração: " + subtracao);
         System.out.println("Multiplicação: " + multiplicacao);
-        System.out.println("Divisão: " + divisao);
+        if (num2 == 0) {
+            System.out.println("Divisão: Não é possivel dividir por zero!");
+        } else {
+            System.out.println("Divisão: " + divisao);
+        }
 
         scanner.close();
     }
